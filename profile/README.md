@@ -79,5 +79,9 @@ If you are already an LC member and interested in IT, reach out during the appli
 
 ## Contact
 
-
+|||
+|---|---|
+| **Instagram** | [eestec.thessaloniki](https://www.instagram.com/eestec.thessaloniki/) |
+| **LinkedIn** | [EESTEC LC Thessaloniki](https://www.linkedin.com/company/eestec-lc-thessaloniki/posts/?feedView=all) |
+| **Website** | [EESTEC LC Thessaloniki](https://eesteclcthessaloniki.web.auth.gr/)|
 
