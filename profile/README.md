@@ -1,6 +1,6 @@
 # 🖥️ IT Annual Team 2026 - EESTEC LC Thessaloniki
 
-> Building the internal infrastructure that keeeps the LC running.
+> Building the internal infrastructure.
 
 ---
 
