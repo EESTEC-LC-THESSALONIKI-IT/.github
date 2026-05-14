@@ -7,7 +7,7 @@
 ## Purpose and Scope
 
 The IT Annual Team is the techinal backbone of **EESTEC LC Thessaloniki**.
-We design, buil and maintain the internal tools, systems and data pipelines that support the team.
+We design, build and maintain the internal tools, systems and data pipelines that support the team.
 
 This GitHub organization belongs to the **IT branch only** - not the LC as a whole.
 
